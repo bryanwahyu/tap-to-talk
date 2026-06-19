@@ -4,7 +4,7 @@ A free, offline-capable **tap-to-talk communication board** (AAC) for people who
 non-verbal or minimally verbal. Tap a picture → the device says it out loud. Tap a
 few pictures → it speaks a whole sentence.
 
-**Live demo:** _<add your Vercel URL here after deploy>_
+**Live demo:** https://tap-to-talk.vercel.app/
 
 ---
 
